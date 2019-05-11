@@ -2,25 +2,25 @@
 
 ### Main Administration
 
-* #####  President
+* ####   President
 
   * Coordinate with team executives
   * Review marketing, events, and technical plans
   * Global supervisor
 
-* ##### Vice President
+* ####  Vice President
 
   * Assist with coordinating and reviewing process
   * Global supervisor
 
-* ##### Treasurer
+* ####  Treasurer
 
   * Manager of Agency Account
   * Audit expenditure and revenue
 
 ### Marketing Team
 
-* ##### Mission
+* ####  Mission
 
   * Responsible for providing and revising materials for publicity purpose
     * Wechat Official Account Articles (1 entry per month required, special events excluded)
@@ -28,57 +28,57 @@
 
   * Any task directly assigned by main admin team
 
-* ##### Role
+* ####  Role
 
-  * ##### Marketing Executive (ME)
+  * ####  Marketing Executive (ME)
 
-  * ##### Vice Marketing Executive (ME)
+  * ####  Vice Marketing Executive (ME)
 
-  * ##### Markeing Staff (MS)
+  * ####  Markeing Staff (MS)
 
 ### Event Managing Team
 
-* ##### Mission
+* ####  Mission
 
   * Event planning (coordinate with TST)
   * Financial planning (consult with treasurer)
   * Event conduction
   * Any task directly assigned by main admin team
 
-* ##### Role
+* ####  Role
 
-  * ##### Event Managing Executive (EE)
+  * ####  Event Managing Executive (EE)
 
-  * ##### Vice Event Managing Executive (EE)
+  * ####  Vice Event Managing Executive (EE)
 
-  * ##### Event Managing Staff (ES)
+  * ####  Event Managing Staff (ES)
 
 ### Technical Service Team
 
-* ##### Mission
+* ####  Mission
 
   * Central technical support
   * Any task directly assigned by main admin team
 
-*  ##### Role
+*  #### Role
 
-  * ##### Technical Service Executive (TE)
+  * ####  Technical Service Executive (TE)
 
-  * ##### Vice Technical Service Executive (TE)
+  * ####  Vice Technical Service Executive (TE)
 
-  - ##### Technical Service Staff (TS)
+  - ####  Technical Service Staff (TS)
 
 
 
 ### Meetings
 
-* ##### Mandatory
+* ####  Mandatory
 
   * Participants: main admin team with all team executives
   * Frequency: once per four weeks
   * Time: At the last week of every cycle
 
-* ##### Optional
+* ####  Optional
 
   * Participants: Team based
   * Time & Frequency: On demand
@@ -87,7 +87,7 @@
 
 ### Officer Election:
 
-* ##### Form
+* ####  Form
 
   * Main Admin & Executives:
 
@@ -101,32 +101,32 @@
     * 50 - 150 words post
     * Approved by executives
 
-* ##### Eligible electors
+* ####  Eligible electors
 
   All active members
 
-* ##### Main Administration
+* ####  Main Administration
 
   * Frequency: once a year
   * Time: Spring Quarter
 
-* ##### Team Executives
+* ####  Team Executives
 
   * Frequency: once per two years
   * Time: Spring Quarter
 
-* ##### Remark
+* ####  Remark
 
-- - All administrative team members and all team executives should be elected.
-  - All team staff members can be directly selected by team executives and administrative members.
+  * All administrative team members and all team executives should be elected.
+  * All team staff members can be directly selected by team executives and administrative members.
 
 
 
 ### Officer Resignation
 
-- ##### Procedure: 
+- ####  Procedure: 
 
-- - Submit resignation application to main admin
+  - Submit resignation application to main admin
   - Announcement to all members
   - Nomination of new officer
 
