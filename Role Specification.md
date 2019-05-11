@@ -60,13 +60,13 @@
   * Central technical support
   * Any task directly assigned by main admin team
 
-*  #### Role
+* #### Role
 
   * ####  Technical Service Executive (TE)
 
   * ####  Vice Technical Service Executive (TE)
 
-  - ####  Technical Service Staff (TS)
+  * ####  Technical Service Staff (TS)
 
 
 
