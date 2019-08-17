@@ -1,5 +1,7 @@
 # Project Seagull
 
+<img src="assets/project-seagull.jpg" width="500"/>
+
 ## Introduction
 
 > Please do not entirely rely on `Project Seagull` as this project is currently under beta channel. The service is provided and funded by `Incubator of Design, Efficiency and Experience (iDEX)` student organization at UC Davis. The service is hosted on `Azure`'s virtual machine, which subscribed by `iDEX` student organization at UC Davis. If the cost beyond `iDEX` budget, `iDEX` has the right to shutdown this service any time.
