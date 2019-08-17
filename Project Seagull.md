@@ -6,7 +6,7 @@
 
 > Please do not entirely rely on `Project Seagull` as this project is currently under beta channel. The service is provided and funded by `Incubator of Design, Efficiency and Experience (iDEX)` student organization at UC Davis. The service is hosted on `Azure`'s virtual machine, which subscribed by `iDEX` student organization at UC Davis. If the cost beyond `iDEX` budget, `iDEX` has the right to shutdown this service any time.
 
-**Project Seagull** aims to provide a Virtual Private Network (VPN) which can help management team members get access to certain online service for work purpose, such as `Google Drive`, `GitHub`, etc. Some online resource may be blocked by certain countries or areas and **Project Seagull** can break the blockage by utilizing the technology powered by [Outline](https://getoutline.org/en/home) created by [Jigsaw](https://jigsaw.google.com). The [GitHub repository](https://github.com/outline/outline) for Outline.
+**Project Seagull** aims to provide a Virtual Private Network (VPN) which can help management team members get access to certain online service for work purpose, such as `Google Drive`, `GitHub`, etc. Some online resource may be blocked by certain countries or areas and **Project Seagull** can break the blockage by utilizing the technology powered by [Outline](https://getoutline.org/en/home) created by [Jigsaw](https://jigsaw.google.com). The [GitHub repository](https://github.com/Jigsaw-Code/outline-client) for Outline.
 
 
 
